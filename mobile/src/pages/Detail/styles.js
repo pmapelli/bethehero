@@ -19,14 +19,14 @@ export default StyleSheet.create({
     borderRadius: 8,
     backgroundColor: "#FFF",
     marginBottom: 16,
-    marginTop: 48
+    marginTop: 20
   },
 
   incidentProperty: {
     fontSize: 14,
     color: "#41414d",
     fontWeight: "bold",
-    marginTop: 24
+    marginTop: 1
   },
 
   incidentValue: {
@@ -37,7 +37,7 @@ export default StyleSheet.create({
   },
 
   contactBox: {
-    padding: 24,
+    padding: 12,
     borderRadius: 8,
     backgroundColor: "#FFF",
     marginBottom: 16

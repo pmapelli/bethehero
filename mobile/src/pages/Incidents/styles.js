@@ -38,7 +38,7 @@ export default StyleSheet.create({
   },
 
   incidentList: {
-    marginTop: 32
+    marginTop: 15
   },
 
   incident: {
@@ -55,7 +55,7 @@ export default StyleSheet.create({
   },
 
   incidentValue: {
-    marginTop: 8,
+    marginTop: 3,
     fontSize: 15,
     marginBottom: 24,
     color: "#737380"
